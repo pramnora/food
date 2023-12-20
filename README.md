@@ -14,7 +14,9 @@ This repository is where I store some of my favourite food recepies.
 
 ## Drinks
 
-### Ingredients  
+### Drink no 1
+
+#### Ingredients  
 
 a> Milk  
 b> Ribenea  
@@ -28,3 +30,20 @@ b> Ribenea
 -----
 
 ## Foods
+
+### Food no 1  
+
+#### Ingredients
+
+a> Tin of baked beans
+b> An egg/or, pair of egg(s)
+c> Rice 
+
+#### Instructions
+
+1> Get a frying pan
+2> Pour into the frying pan...the tin of baked beans
+3> Also, pour in the egg/s
+4> When everything is ready/cooked...
+5> Cook some rice
+6> Eat the baked beans, and, eggs...with the rice 
