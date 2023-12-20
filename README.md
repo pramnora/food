@@ -44,6 +44,6 @@ c> Rice
 1> Get a frying pan  
 2> Pour into the frying pan...the tin of baked beans  
 3> Also, pour in the egg/s  
-4> When everything is ready/cooked...  
+4> Heat up everything until when it's ready/cooked...  
 5> Cook some rice  
 6> Eat the baked beans, and, eggs...with the rice   
