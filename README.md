@@ -16,14 +16,14 @@ This repository is where I store some of my favourite food recepies.
 
 ### Ingredients  
 
-> Milk
-> Ribenea
+> Milk  
+> Ribenea  
 
 ### Instructions
 
-1> Get a pint mug
-2> Open up, and, pour into the mug...a pint of milk
-3> Add a tablespoon full of Ribena (sweet syrup to taste)
+1> Get a pint mug  
+2> Open up, and, pour into the mug...a pint of milk  
+3> Add a tablespoon full of Ribena (sweet syrup to taste)  
 
 -----
 
